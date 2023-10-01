@@ -13,7 +13,7 @@ Network name descriptor, Service list descriptor, Stuffing descriptor, Service d
 <h1>Online MPEG2/DVB decoder</h1>
 
 <div class="header">
-<a href="status.php">About</a> | <a href="http://www.pjdaniel.org.uk/mpeg/">Download TS packet analyser for Windows</a>
+<a href="status.php">About</a> | <a href="https://github.com/daniep01/MPEG-2-Transport-Stream-Packet-Analyser">Download TS packet analyser for Windows</a>
 </div>
 <div class="header">Use this simple online tool to decode MPEG2 TS packet headers and DVB/MPEG2 descriptors. Type or paste hex bytes into the box below. Either put a space between each byte (1 2 A B), or enter 2 character bytes without spaces (01020A0B). For descriptors the length will be calculated automatically if you use FF as the length.
 </div>
